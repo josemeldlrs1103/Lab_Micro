@@ -1,0 +1,3 @@
+﻿  Assembling Lab7.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Lab7.vcxproj -> C:\Users\josei\Desktop\URL\2020\Segundo Ciclo\Microprogramación\Lab_Micro\Lab7\Debug\Lab7.exe
